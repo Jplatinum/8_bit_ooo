@@ -1,0 +1,162 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jay/Documents/School/ece552_spring/phase3_841
+vCPU
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1747258347
+!i10b 1
+!s100 WR>ba71ISd3Rl9XPO@B7h3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPV8]n65<NY4OT0fFG]<nX1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Jay/Documents/projects/8_bit_processor
+w1747258284
+8C:\Users\Jay\Documents\projects\8_bit_processor\CPU.sv
+FC:\Users\Jay\Documents\projects\8_bit_processor\CPU.sv
+!i122 31
+L0 1 22
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1747258347.000000
+!s107 C:\Users\Jay\Documents\projects\8_bit_processor\CPU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jay\Documents\projects\8_bit_processor\CPU.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@c@p@u
+vcpu_tb
+R0
+R1
+!i10b 1
+!s100 O5]XeHT_6izRg35Wbo;9G0
+R2
+I=8Mk@HeNM4QXhi6LT2^>W1
+R3
+S1
+R4
+w1747258309
+Z9 8C:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv
+Z10 FC:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv
+!i122 33
+Z11 L0 1 38
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 C:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv|
+!i113 1
+R7
+R8
+vfetch
+R0
+R1
+!i10b 1
+!s100 8I7faZhJG]1Q63`<1oJRH0
+R2
+IGiN]XcinVc0;8o4lSNmMA2
+R3
+S1
+R4
+w1747257973
+8C:\Users\Jay\Documents\projects\8_bit_processor\fetch.sv
+FC:\Users\Jay\Documents\projects\8_bit_processor\fetch.sv
+!i122 32
+L0 1 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\Jay\Documents\projects\8_bit_processor\fetch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jay\Documents\projects\8_bit_processor\fetch.sv|
+!i113 1
+R7
+R8
+vmem
+R0
+!s110 1747258348
+!i10b 1
+!s100 Rk>EW[7L7l3^DaJcJZ^MO2
+R2
+IZ>NF^bE7lDCYZI1J7RBL91
+R3
+S1
+R4
+w1747258082
+Z14 8C:\Users\Jay\Documents\projects\8_bit_processor\mem.sv
+Z15 FC:\Users\Jay\Documents\projects\8_bit_processor\mem.sv
+!i122 34
+Z16 L0 16 36
+R5
+r1
+!s85 0
+31
+R6
+Z17 !s107 C:\Users\Jay\Documents\projects\8_bit_processor\mem.sv|
+Z18 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jay\Documents\projects\8_bit_processor\mem.sv|
+!i113 1
+R7
+R8
+vmemory1c
+R0
+!s110 1747258031
+!i10b 1
+!s100 R^PhZnBcm8;mnX3USB8@G1
+R2
+ILUY]WlbTiS9SR`me>UzP>3
+R3
+S1
+R4
+w1747257964
+R14
+R15
+!i122 22
+R16
+R5
+r1
+!s85 0
+31
+!s108 1747258031.000000
+R17
+R18
+!i113 1
+R7
+R8
+vtb_cpu
+R0
+!s110 1747257976
+!i10b 1
+!s100 VfSO=R]k9k>OTHQQ2z:kM3
+R2
+I[R4ah0YbieFg82D@Mz66O3
+R3
+S1
+R4
+w1747257531
+R9
+R10
+!i122 17
+R11
+R5
+r1
+!s85 0
+31
+!s108 1747257976.000000
+R12
+R13
+!i113 1
+R7
+R8

@@ -20,7 +20,7 @@ module cpu_tb;
    initial begin
       rst_n = 0;
 
-      repeat (3) @(negedge clk);
+      repeat (2) @(negedge clk);
       rst_n = 1;
 
       wait (hlt == 1);

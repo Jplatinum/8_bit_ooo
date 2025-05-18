@@ -13,7 +13,9 @@
 //
 //////////////////////////////////////
 
-module mem (
+module mem #(
+    parameter LOAD_FROM_FILE = 1
+)(
     output [7:0] data_out,
     input  [7:0] data_in,
     input  [7:0] addr,       // 8-bit address space => 256 bytes
@@ -37,7 +39,7 @@ module mem (
     // Write and Reset Behavior
     always @(posedge clk) begin
         if (rst) begin
-            if (!loaded) begin
+            if (!loaded && LOAD_FROM_FILE) begin
                 $readmemh("loadmem.txt", mem);
                 loaded = 1;
             end

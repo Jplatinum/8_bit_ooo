@@ -39,7 +39,8 @@ module decode (
 	    .write_data(write_back_data),
 	    .reg_write_enable((opcode == 2'b00) ||            // R-type
 	                      ((opcode == 2'b01) && (rs == 2'b00)) ||  // ADDI
-	                      ((opcode == 2'b01) && (rs == 2'b01))     // LD
+	                      ((opcode == 2'b01) && (rs == 2'b01)) ||  // LD
+	                      ((opcode == 2'b01) && (rs == 2'b11))
 	                     ),
 	    .read_data_1(read_data_1),
 	    .read_data_2(read_data_2)

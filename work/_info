@@ -11,196 +11,196 @@ cModel Technology
 dC:/Users/Jay/Documents/School/ece552_spring/phase3_841
 vCPU
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-!s110 1747350417
+Z1 !s110 1747526470
 !i10b 1
 !s100 DcGQF1QWlMI=O?jP]n_QN3
-Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
 IdRMo>6DUe:YU@TRnQT08Q1
-Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
 S1
-Z3 dC:/Users/Jay/Documents/projects/8_bit_processor
+Z4 dC:/Users/Jay/Documents/projects/8_bit_processor
 w1747347115
 8C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv
-!i122 277
+!i122 421
 L0 1 85
-Z4 OV;L;2020.1;71
+Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1747350417.000000
+Z6 !s108 1747526470.000000
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv|
 !i113 1
-Z6 o-work work -sv
-Z7 tCvgOpt 0
+Z7 o-work work -sv
+Z8 tCvgOpt 0
 n@c@p@u
 vcpu_tb
 R0
-Z8 !s110 1747350418
+R1
 !i10b 1
 !s100 `gQO>0<RMVRdM3?Q9POo]3
-R1
-IQ;VV>NQz?o]=;HbOEoeOU0
 R2
-S1
+IQ;VV>NQz?o]=;HbOEoeOU0
 R3
+S1
+R4
 w1747347635
 8C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv
-!i122 279
+!i122 423
 Z9 L0 1 38
-R4
+R5
 r1
 !s85 0
 31
-Z10 !s108 1747350418.000000
+R6
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv|
 !i113 1
-R6
 R7
+R8
 vdecode
 R0
-R8
+Z10 !s110 1747526471
 !i10b 1
-!s100 5WGhNl9[b<I>XY7l?SFZM0
-R1
-IT;]j4zID971`hl[DTiUYd1
+!s100 l?jCG4XFJY46ihBfZZk1i1
 R2
-S1
+I26nz30N`1:dVniBP4dXNd0
 R3
-w1747345083
+S1
+R4
+w1747524634
 8C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/decode.sv
-!i122 281
-L0 1 48
-R4
+!i122 425
+L0 1 49
+R5
 r1
 !s85 0
 31
-R10
+Z11 !s108 1747526471.000000
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv|
 !i113 1
-R6
 R7
+R8
 vexecute
 R0
-Z11 !s110 1747350419
+R10
 !i10b 1
-!s100 Z134ZGAViCBfJRVN73YOD0
-R1
-IWW?5]K[lR5k9m1LcI?oko3
+!s100 NPdhbZ>?H@<A_A@lQ>?Ab3
 R2
-S1
+IeFAi`<Yl7LiAV?EMf01EL1
 R3
-w1747329143
+S1
+R4
+w1747524652
 8C:/Users/Jay/Documents/projects/8_bit_processor/execute.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/execute.sv
-!i122 284
+!i122 428
 L0 1 71
-R4
+R5
 r1
 !s85 0
 31
-R10
+R11
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/execute.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/execute.sv|
 !i113 1
-R6
 R7
+R8
 vfetch
 R0
-R8
+R1
 !i10b 1
 !s100 8I7faZhJG]1Q63`<1oJRH0
-R1
-Imd0=2ze;NCXSO;>FTP2a=1
 R2
-S1
+Imd0=2ze;NCXSO;>FTP2a=1
 R3
+S1
+R4
 w1747257973
 8C:/Users/Jay/Documents/projects/8_bit_processor/fetch.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/fetch.sv
-!i122 278
+!i122 422
 L0 1 26
-R4
+R5
 r1
 !s85 0
 31
-R5
+R6
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/fetch.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/fetch.sv|
 !i113 1
-R6
 R7
+R8
 vmem
 R0
-R8
+R10
 !i10b 1
-!s100 Rk>EW[7L7l3^DaJcJZ^MO2
-R1
-Igj1NO2hGUj^hSjf]hz1;83
+!s100 0eE71609a;ACbI[oF=b9Z0
 R2
-S1
+IUl?izWIDCN<;<olZ8gkF72
 R3
-w1747258082
+S1
+R4
+w1747524049
 8C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/mem.sv
-!i122 280
-Z12 L0 16 36
-R4
+!i122 424
+L0 16 38
+R5
 r1
 !s85 0
 31
-R10
+R11
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv|
 !i113 1
-R6
 R7
+R8
 vmemory
 R0
-R8
+R10
 !i10b 1
-!s100 UdJEk<g8<J8BFMLj7BkzB2
-R1
-IIIB7JliO3AVPFWX`k^@YT1
+!s100 IFF2QnPCgHia@@k9RSORE0
 R2
-S1
+Id^Q0chHSY4OlKYGIPJ9Cf0
 R3
-w1747261543
+S1
+R4
+w1747526453
 8C:/Users/Jay/Documents/projects/8_bit_processor/memory.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/memory.sv
-!i122 282
+!i122 426
 L0 1 27
-R4
+R5
 r1
 !s85 0
 31
-R10
+R11
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/memory.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/memory.sv|
 !i113 1
-R6
 R7
+R8
 vmemory1c
 R0
 !s110 1747258031
 !i10b 1
 !s100 R^PhZnBcm8;mnX3USB8@G1
-R1
-ILUY]WlbTiS9SR`me>UzP>3
 R2
-S1
+ILUY]WlbTiS9SR`me>UzP>3
 R3
+S1
+R4
 w1747257964
 8C:\Users\Jay\Documents\projects\8_bit_processor\mem.sv
 FC:\Users\Jay\Documents\projects\8_bit_processor\mem.sv
 !i122 22
-R12
-R4
+L0 16 36
+R5
 r1
 !s85 0
 31
@@ -208,49 +208,49 @@ r1
 !s107 C:\Users\Jay\Documents\projects\8_bit_processor\mem.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jay\Documents\projects\8_bit_processor\mem.sv|
 !i113 1
-R6
 R7
+R8
 vregister_file
 R0
-R11
+R10
 !i10b 1
 !s100 R@n8I>;dIXOXMW?n[0P<g3
-R1
-I49?:jaHUPmhcHkP7kT6X;2
 R2
-S1
+I49?:jaHUPmhcHkP7kT6X;2
 R3
+S1
+R4
 w1747350404
 8C:\Users\Jay\Documents\projects\8_bit_processor\register_file.sv
 FC:\Users\Jay\Documents\projects\8_bit_processor\register_file.sv
-!i122 285
+!i122 429
 L0 1 32
-R4
+R5
 r1
 !s85 0
 31
-!s108 1747350419.000000
+R11
 !s107 C:\Users\Jay\Documents\projects\8_bit_processor\register_file.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jay\Documents\projects\8_bit_processor\register_file.sv|
 !i113 1
-R6
 R7
+R8
 vtb_cpu
 R0
 !s110 1747257976
 !i10b 1
 !s100 VfSO=R]k9k>OTHQQ2z:kM3
-R1
-I[R4ah0YbieFg82D@Mz66O3
 R2
-S1
+I[R4ah0YbieFg82D@Mz66O3
 R3
+S1
+R4
 w1747257531
 8C:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv
 FC:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv
 !i122 17
 R9
-R4
+R5
 r1
 !s85 0
 31
@@ -258,30 +258,30 @@ r1
 !s107 C:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jay\Documents\projects\8_bit_processor\CPU_tb.sv|
 !i113 1
-R6
 R7
+R8
 vwriteback
 R0
-R8
+R10
 !i10b 1
 !s100 2JLQCUK>hk;9ZSm[T911J1
-R1
-IKIejFghmMdofhL?]2HXLH2
 R2
-S1
+IKIejFghmMdofhL?]2HXLH2
 R3
+S1
+R4
 w1747262488
 8C:/Users/Jay/Documents/projects/8_bit_processor/writeback.sv
 FC:/Users/Jay/Documents/projects/8_bit_processor/writeback.sv
-!i122 283
+!i122 427
 L0 1 12
-R4
+R5
 r1
 !s85 0
 31
-R10
+R11
 !s107 C:/Users/Jay/Documents/projects/8_bit_processor/writeback.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jay/Documents/projects/8_bit_processor/writeback.sv|
 !i113 1
-R6
 R7
+R8

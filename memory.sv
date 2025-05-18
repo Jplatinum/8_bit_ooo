@@ -14,7 +14,7 @@ module memory (
 
     assign PC_out = PCSrc ? pc_ALU : pc_inc;
 
-    mem data_memory (
+    mem #(.LOAD_FROM_FILE(0)) data_memory (
         .addr(address),
         .data_out(read_data),
         .data_in(write_data), 

@@ -974,3 +974,1370 @@ run -all
 # ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
 #    Time: 205 ps  Iteration: 1  Instance: /cpu_tb
 # Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/fetch0/imem
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/memory0/data_memory
+# Time: 25 | PC: X | HLT: x
+# Time: 35 | PC: x | HLT: x
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/fetch0/imem
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/memory0/data_memory
+# Time: 25 | PC: X | HLT: x
+# Time: 35 | PC: x | HLT: x
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/fetch0/imem
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/memory0/data_memory
+# Time: 25 | PC: X | HLT: x
+# Time: 35 | PC: x | HLT: x
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/fetch0/imem
+# ** Warning: (vsim-PLI-3406) Too many digits (4) in data on line 2 of file "loadmem.txt". (Max is 2.)    : C:/Users/Jay/Documents/projects/8_bit_processor/mem.sv(41)
+#    Time: 5 ps  Iteration: 1  Instance: /cpu_tb/cpu0/memory0/data_memory
+# Time: 25 | PC: X | HLT: x
+# Time: 35 | PC: x | HLT: x
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+run -all
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 115 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 5 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 5 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 5 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 5 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 115 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 5 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 5 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 5 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 1
+# CPU halted at PC = 2
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 45 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 1
+# CPU halted at PC = 2
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 45 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 1
+# CPU halted at PC = 4
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 65 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 1
+# CPU halted at PC = 4
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 65 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 1
+# CPU halted at PC = 4
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 65 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 1
+# CPU halted at PC = 4
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 65 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 1
+# CPU halted at PC = 4
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 65 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 1
+# CPU halted at PC = 2
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 45 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 1
+# CPU halted at PC = 3
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 55 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 1
+# CPU halted at PC = 4
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 65 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 1
+# CPU halted at PC = 6
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 85 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 1
+# CPU halted at PC = 7
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 95 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 1
+# CPU halted at PC = 7
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 95 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 1
+# CPU halted at PC = 8
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 105 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 1
+# CPU halted at PC = 8
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 105 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 1
+# CPU halted at PC = 9
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 115 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+add wave -position insertpoint  \
+sim:/cpu_tb/cpu0/memory0/data_memory/mem
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 1
+# CPU halted at PC = 10
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 125 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 1
+# CPU halted at PC = 11
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 135 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 1
+# CPU halted at PC = 11
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 135 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 1
+# CPU halted at PC = 11
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 135 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 1
+# CPU halted at PC = 11
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 135 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 1
+# CPU halted at PC = 12
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 145 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 1
+# CPU halted at PC = 13
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 155 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 1
+# CPU halted at PC = 13
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 155 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 0
+# Time: 155 | PC: 14 | HLT: 1
+# CPU halted at PC = 14
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 165 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 145 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 145 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 145 ps.
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 0
+# Time: 155 | PC: 14 | HLT: 0
+# Time: 165 | PC: 15 | HLT: 1
+# CPU halted at PC = 15
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 175 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+restart
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: X | HLT: x
+# Time: 25 | PC: x | HLT: x
+restart
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 0
+# Time: 155 | PC: 14 | HLT: 0
+# Time: 165 | PC: 15 | HLT: 1
+# CPU halted at PC = 15
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 175 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 0
+# Time: 155 | PC: 14 | HLT: 0
+# Time: 165 | PC: 15 | HLT: 0
+# Time: 175 | PC: 16 | HLT: 0
+# Time: 185 | PC: 17 | HLT: 0
+# Time: 195 | PC: 18 | HLT: 0
+# Time: 205 | PC: 19 | HLT: 1
+# CPU halted at PC = 19
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 215 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: X | HLT: x
+# Time: 25 | PC: x | HLT: x
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: X | HLT: x
+# Time: 25 | PC: x | HLT: x
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 0
+# Time: 155 | PC: 14 | HLT: 0
+# Time: 165 | PC: 15 | HLT: 0
+# Time: 175 | PC: 16 | HLT: 0
+# Time: 185 | PC: 17 | HLT: 0
+# Time: 195 | PC: 18 | HLT: 0
+# Time: 205 | PC: 19 | HLT: 1
+# CPU halted at PC = 19
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 215 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 0
+# Time: 155 | PC: 14 | HLT: 0
+# Time: 165 | PC: 15 | HLT: 0
+# Time: 175 | PC: 16 | HLT: 0
+# Time: 185 | PC: 17 | HLT: 0
+# Time: 195 | PC: 18 | HLT: 0
+# Time: 205 | PC: 19 | HLT: 1
+# CPU halted at PC = 19
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 215 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# Time: 145 | PC: 13 | HLT: 0
+# Time: 155 | PC: 14 | HLT: 0
+# Time: 165 | PC: 15 | HLT: 1
+# CPU halted at PC = 15
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 175 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+restart
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 145 ps.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: x
+# Time: 5 | PC: 0 | HLT: 0
+# Time: 25 | PC: 1 | HLT: 0
+# Time: 35 | PC: 2 | HLT: 0
+# Time: 45 | PC: 3 | HLT: 0
+# Time: 55 | PC: 4 | HLT: 0
+# Time: 65 | PC: 5 | HLT: 0
+# Time: 75 | PC: 6 | HLT: 0
+# Time: 85 | PC: 7 | HLT: 0
+# Time: 95 | PC: 8 | HLT: 0
+# Time: 105 | PC: 9 | HLT: 0
+# Time: 115 | PC: 10 | HLT: 0
+# Time: 125 | PC: 11 | HLT: 0
+# Time: 135 | PC: 12 | HLT: 0
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 145 ps.

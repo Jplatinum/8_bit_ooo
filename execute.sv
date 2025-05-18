@@ -52,7 +52,7 @@ module execute (
                         write_data = read_data_2;       // Data to store
                     end
                     2'b11: begin // CMP: if rs == rt
-                        alu_result = (read_data_1 == read_data_2) ? 8'd1 : 8'd0;
+                        alu_result = (read_data_1 == read_data_2) ? 8'hFF : 8'h00;
                         // No write_data for CMP yet
                     end
                 endcase

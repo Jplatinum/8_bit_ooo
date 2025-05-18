@@ -14,7 +14,7 @@ module fetch (
     end
 
     mem imem (
-        .addr(pc),
+        .addr(pc_out),
         .data_out(instr),
         .data_in(8'h00), 
         .enable(1'b1),   

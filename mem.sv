@@ -40,7 +40,7 @@ module mem #(
     always @(posedge clk) begin
         if (rst) begin
             if (!loaded && LOAD_FROM_FILE) begin
-                $readmemh("loadmem.txt", mem);
+                $readmemh("piptest.txt", mem);
                 loaded = 1;
             end
         end else begin

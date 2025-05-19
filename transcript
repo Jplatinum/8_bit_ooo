@@ -29184,3 +29184,550 @@ run -all
 # ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
 #    Time: 165 ps  Iteration: 1  Instance: /cpu_tb
 # Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of CPU.sv failed with 1 errors.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 1 failed with 1 error.
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Error: (vsim-3063) Port 'read_data_1' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'read_data_2' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemtoReg' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'PCSrc' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemWrite' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemRead' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_1'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(37).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_2'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(38).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'write_register'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(39).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Error: (vsim-3063) Port 'pc_ALU' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'alu_result' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'write_data' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+vsim work.cpu_tb
+# vsim work.cpu_tb 
+# Start time: 16:50:37 on May 15,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Error: (vsim-3063) Port 'read_data_1' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'read_data_2' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemtoReg' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'PCSrc' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemWrite' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemRead' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_1'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(37).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_2'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(38).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'write_register'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(39).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Error: (vsim-3063) Port 'pc_ALU' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'alu_result' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'write_data' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# Error loading design
+# End time: 11:58:42 on May 19,2025, Elapsed time: 91:08:05
+# Errors: 18, Warnings: 7
+# A time value could not be extracted from the current line
+vsim work.cpu_tb
+# vsim work.cpu_tb 
+# Start time: 12:04:07 on May 19,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Error: (vsim-3063) Port 'read_data_1' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'read_data_2' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemtoReg' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'PCSrc' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemWrite' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemRead' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_1'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(37).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_2'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(38).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'write_register'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(39).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Error: (vsim-3063) Port 'pc_ALU' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'alu_result' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'write_data' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# Error loading design
+# End time: 12:04:08 on May 19,2025, Elapsed time: 0:00:01
+# Errors: 9, Warnings: 4
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+vsim work.cpu_tb
+# vsim work.cpu_tb 
+# Start time: 12:20:45 on May 19,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Error: (vsim-3063) Port 'MemtoReg' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'PCSrc' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemWrite' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemRead' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_1'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(37).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_2'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(38).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'write_register'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(39).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Error: (vsim-3063) Port 'pc_ALU' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'alu_result' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'write_data' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# Error loading design
+# End time: 12:20:45 on May 19,2025, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 5
+vsim work.cpu_tb
+# vsim work.cpu_tb 
+# Start time: 12:21:20 on May 19,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Error: (vsim-3063) Port 'MemtoReg' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'PCSrc' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemWrite' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Error: (vsim-3063) Port 'MemRead' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 29
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_1'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(37).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_2'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(38).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'write_register'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(39).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Error: (vsim-3063) Port 'pc_ALU' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'alu_result' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# ** Error: (vsim-3063) Port 'write_data' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/execute0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 47
+# Error loading design
+# End time: 12:21:20 on May 19,2025, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 4
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+vsim work.cpu_tb
+# vsim work.cpu_tb 
+# Start time: 12:21:52 on May 19,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_1'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(37).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'read_register_2'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(38).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (2) for port 'write_register'. The port definition is at: C:/Users/Jay/Documents/projects/8_bit_processor/register_file.sv(39).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/decode0/reg_file0 File: C:/Users/Jay/Documents/projects/8_bit_processor/decode.sv Line: 43
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Jay  Hostname: PERSONALJAY  ProcessID: 66840
+#           Attempting to use alternate WLF file "./wlft92rxzw".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft92rxzw
+# Warning in wave window restart: ** UI-Msg: (vish-4014) No objects found matching '/cpu_tb/cpu0/instr'. 
+# Warning in wave window restart: ** UI-Msg: (vish-4014) No objects found matching '/cpu_tb/cpu0/alu_result'. 
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+vsim work.cpu_tb
+# End time: 12:24:39 on May 19,2025, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 8
+# vsim work.cpu_tb 
+# Start time: 12:24:39 on May 19,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/cpu_tb/cpu0/clk \
+sim:/cpu_tb/cpu0/rst_n \
+sim:/cpu_tb/cpu0/hlt \
+sim:/cpu_tb/cpu0/pc \
+sim:/cpu_tb/cpu0/pc_inc \
+sim:/cpu_tb/cpu0/PC_out \
+sim:/cpu_tb/cpu0/instr_FD \
+sim:/cpu_tb/cpu0/read_data_1 \
+sim:/cpu_tb/cpu0/read_data_2 \
+sim:/cpu_tb/cpu0/MemtoReg \
+sim:/cpu_tb/cpu0/PCSrc \
+sim:/cpu_tb/cpu0/MemWrite \
+sim:/cpu_tb/cpu0/MemRead \
+sim:/cpu_tb/cpu0/write_back_data \
+sim:/cpu_tb/cpu0/instr_DE \
+sim:/cpu_tb/cpu0/pc_ALU \
+sim:/cpu_tb/cpu0/alu_result_EM \
+sim:/cpu_tb/cpu0/write_data \
+sim:/cpu_tb/cpu0/read_data \
+sim:/cpu_tb/cpu0/alu_result_MW
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Jay  Hostname: PERSONALJAY  ProcessID: 66840
+#           Attempting to use alternate WLF file "./wlftyk8949".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftyk8949
+run -all
+# Time: 0 | PC: 0 | HLT: 0
+# Time: 45 | PC: 0 | HLT: 1
+# CPU halted at PC = 0
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 55 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'data_out'.
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/fetch0/imem File: C:/Users/Jay/Documents/projects/8_bit_processor/fetch.sv Line: 16
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+vsim work.cpu_tb
+# vsim work.cpu_tb 
+# Start time: 12:24:39 on May 19,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Jay  Hostname: PERSONALJAY  ProcessID: 66840
+#           Attempting to use alternate WLF file "./wlftk2jg01".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftk2jg01
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: 0
+# Time: 45 | PC: 0 | HLT: 1
+# CPU halted at PC = 0
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 55 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: 0
+# Time: 45 | PC: 0 | HLT: x
+# Time: 55 | PC: X | HLT: x
+# Time: 95 | PC: x | HLT: x
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Error: (vsim-3063) Port 'instr' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /cpu_tb/cpu0/fetch0 File: C:/Users/Jay/Documents/projects/8_bit_processor/CPU.sv Line: 12
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+# Break key hit
+vsim work.cpu_tb
+# vsim work.cpu_tb 
+# Start time: 12:24:39 on May 19,2025
+# Loading sv_std.std
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Jay  Hostname: PERSONALJAY  ProcessID: 66840
+#           Attempting to use alternate WLF file "./wlft0h937h".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft0h937h
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: 0
+# Time: 55 | PC: 1 | HLT: 1
+# CPU halted at PC = 1
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 65 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
+# Compile of CPU.sv was successful.
+# Compile of fetch.sv was successful.
+# Compile of CPU_tb.sv was successful.
+# Compile of mem.sv was successful.
+# Compile of decode.sv was successful.
+# Compile of memory.sv was successful.
+# Compile of writeback.sv was successful.
+# Compile of execute.sv was successful.
+# Compile of register_file.sv was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu_tb
+# Loading work.CPU
+# Loading work.fetch
+# Loading work.mem
+# Loading work.decode
+# Loading work.register_file
+# Loading work.execute
+# Loading work.memory
+# Loading work.writeback
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Time: 0 | PC: 0 | HLT: 0
+# Time: 55 | PC: 1 | HLT: 0
+# Time: 65 | PC: X | HLT: 1
+# CPU halted at PC = X
+# ** Note: $stop    : C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv(31)
+#    Time: 75 ps  Iteration: 1  Instance: /cpu_tb
+# Break in Module cpu_tb at C:/Users/Jay/Documents/projects/8_bit_processor/CPU_tb.sv line 31
